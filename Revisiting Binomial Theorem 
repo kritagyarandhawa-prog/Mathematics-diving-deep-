@@ -84,17 +84,24 @@ Where $o \ge 0$ is an adjustment factor. This allows me to \textbf{predict the l
 \end{itemize}
 
 It’s a simple idea, but it gives structure and foresight to the recursive process.
-
+    
 \section*{5. Scaling and Reflection}
 Using successor sums + n+1 + t = n+o, I could imagine expansions for \textbf{very large $n$}, like $n=100$, without ever touching factorials. Symmetry reduces computation by half, and the process is completely predictable.
 
-Even though the binomial theorem is classical, rediscovering it this way—through intuition, recursion, and visualization—made it feel alive. It shows how small, simple ideas can \textbf{grow into elegant, powerful structures}.
+Even though the binomial theorem is classical, rediscovering it this way—through intuition, recursion, and visualization—made it feel alive. It shows how small, simple ideas can \textbf{grow into elegant, powerful structures}. 
+
+The iterative formula to calculate "m" isn't derived by me
+
+m or middle coefficient= n-k/k+1 
+where n is our exponent 
+k is the Whole Number set " W "
+W={0,1,2,3,4...} 
+
 
 \section*{Conclusion}
 This exploration was about more than just reproducing a known formula. It was a journey into \textbf{the thought process of mathematicians}, a way to see the \textbf{logic, patterns, and beauty} behind the theorem.
 
 Even small insights—like successor sums or predicting the number of terms—can reveal the \textbf{deep elegance} of math. This journey shows that curiosity, play, and intuition are just as important as formal proofs.
-
 
 
 \textit{-Written and Explored by Kritagya Randhawa}
